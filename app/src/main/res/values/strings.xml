@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">SimpleTweet2</string>
+    <string name="app_name">BARKSTER (aka SimpleTwitter)</string>
     <string name="login_label">Log in</string>
     <string name="intent_scheme">oauth</string>
     <string name="intent_host">cprest</string>
-    <string name="tweet">TWEET</string>
-    <string name="whats_good">What\'s good in the hood?</string>
+    <string name="tweet">BARK!</string>
+    android:textColor="#FFFFFF"
+    <string name="whats_good">BARK ABOUT SOMETHING!!</string>
 
 </resources>
